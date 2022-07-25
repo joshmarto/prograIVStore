@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+header {
+    background-color: #EAEDED;
+}
+
+.container-fluid {
+    background-color: aqua;
+}
+
+.main-container {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+}

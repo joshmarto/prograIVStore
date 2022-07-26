@@ -6,6 +6,10 @@ header {
     background-color: #EAEDED;
 }
 
+p {
+    text-align: justify;
+}
+
 .container-fluid {
     background-color: aqua;
 }

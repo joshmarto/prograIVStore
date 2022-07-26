@@ -1,0 +1,17 @@
+p {
+    text-align: center;
+}
+
+.card {
+    width: 18rem;
+    margin: 2rem;
+}
+
+.card p {
+    text-align: justify;
+}
+
+.categories {
+    background-color: blueviolet;
+    display: flex;
+}
